@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430655342484",
+    "project_id": "kamilievents-86323",
+    "storage_bucket": "kamilievents-86323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430655342484:android:aa9357f42ee6cd6f5ab181",
+        "android_client_info": {
+          "package_name": "com.ben.kamilievents"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYOaQ9itGO8E8KZAr2vyJcAgpqnTT-Ods"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
